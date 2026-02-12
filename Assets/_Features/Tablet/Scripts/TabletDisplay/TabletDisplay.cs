@@ -2,15 +2,15 @@ using UnityEngine;
 
 public class TabletDisplay : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    private int _firstInt;
+    [SerializeField] private int secondInt;
+    public int ThirdInt;
     void Start()
     {
-        
-    }
 
-    // Update is called once per frame
+    }
     void Update()
     {
-        
+
     }
 }
