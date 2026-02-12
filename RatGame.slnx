@@ -1,0 +1,10 @@
+﻿<Solution>
+  <Project Path="CustomInspector.Editor.csproj" />
+  <Project Path="CustomInspector.Documentation.Editor.csproj" />
+  <Project Path="CustomInspector.csproj" />
+  <Project Path="CustomInspector.Helpers.Editor.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="CustomInspector.Demo.csproj" />
+  <Project Path="CustomInspector.Helpers.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+</Solution>
